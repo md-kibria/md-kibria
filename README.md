@@ -110,9 +110,7 @@
         src="https://github-readme-stats.vercel.app/api?username=md-kibria&show_icons=true&locale=en" alt="md-kibria" />
 </p>
 
-</p>
-
-<!-- --------------------------------------------------------------
+<!--
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -215,8 +213,7 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=md-kibria&show_icons=true&locale=en" alt="md-kibria" />
 </p>
-
------------------------------------------------------- -->
+ -->
 
 <!--
 **md-kibria/md-kibria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
