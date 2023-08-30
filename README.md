@@ -1,5 +1,4 @@
-<h3>Hello</h3>
-<h3 align="center" style="margin-bottom: 1px solid white;">Hi 👋, I'm Md Kibria</h3>
+<h1 align="center">Hi 👋, I'm Md Kibria</h1>
 <h3 align="center">web developer</h3>
 
 - 🌱 I’m currently learning ** Programming & Web Development**
