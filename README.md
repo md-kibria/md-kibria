@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ** Programming & Web Development**
 
-- 💬 Ask me about **react, vue, laravel, nodejs**
+- 💬 Ask me about **react, next, vue, laravel, nodejs**
 
 - 📫 How to reach me **kibriadhaka18@gmail.com**
 
