@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ** Programming & Web Development**
 
-- 💬 Ask me about **react, next, vue, laravel, nodejs**
+- 💬 Ask me about **react, next, laravel, nodejs**
 
 - 📫 How to reach me **kibriadhaka18@gmail.com**
 
@@ -18,11 +18,11 @@
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />  -->
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
     </a>
-     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<!--      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
