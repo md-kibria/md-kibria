@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, next, laravel, nodejs**
 
-- 📫 How to reach me **kibriadhaka18@gmail.com**
+- 📫 How to reach me **mdkibria.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
